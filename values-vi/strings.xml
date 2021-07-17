@@ -146,20 +146,20 @@
     <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
 
-    <string name="menu_new_game">Chơi mới</string>
-    <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="menu_cemetery">Cemetery</string>
-    <string name="menu_collection">Collection</string>
-    <string name="menu_achievements">Thành tích</string>
-    <string name="menu_rate">Đánh giá</string>
-    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_new_game">Trò Chơi Mới</string>
+    <string name="menu_continue_button">&font_cyan;Tiếp Tục&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_cemetery">Nghĩa Trang</string>
+    <string name="menu_collection">Sưu Tầm</string>
+    <string name="menu_achievements">Thành Tích</string>
+    <string name="menu_rate">Đánh Giá</string>
+    <string name="menu_share">Chia Sẻ</string>
     <string name="menu_exit">Thoát</string>
     <string name="menu_play">Chơi</string>
-    <string name="menu_new_game_slot_1">Chơi Mới (Slot 1)</string>
-    <string name="menu_new_game_slot_2">Chơi Mới (Slot 2)</string>
-    <string name="menu_new_game_slot_3">Chơi Mới (Slot 3)</string>
+    <string name="menu_new_game_slot_1">Trò Chơi Mới (Slot 1)</string>
+    <string name="menu_new_game_slot_2">Trò Chơi Mới (Slot 2)</string>
+    <string name="menu_new_game_slot_3">Trò Chơi Mới (Slot 3)</string>
 
-    <string name="text_achievement_unlocked_">Achievement \'&bold;%1$s&bold_end;\' unlocked!</string>
+    <string name="text_achievement_unlocked_">Thành tích \'&bold;%1$s&bold_end;\' đã mở khoá!</string>
 
     <string name="select_game_slot_title">Chọn Slot Game</string>
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
@@ -167,55 +167,55 @@
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_ascended">&asterisk_ascend_color;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_erase_game_title">Delete game?</string>
+    <string name="select_game_slot_erase_game_title">Xoá Trò Chơi?</string>
 
     <string name="text_update_available_title">Cập nhật có sẵn</string>
     <string name="text_update_available_message">Có một phiên bản mới đã có sẵn!</string>
     <string name="text_update_available_positive">Cập nhật</string>
     <string name="text_update_available_cancel">Hủy</string>
 
-    <string name="game_over_rank_top">You made it to the top &font_cyan;#%d&font_end; in the Cemetery!</string>
-    <string name="game_over_rank_rest">You were ranked &font_cyan;#%d &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_top">Bạn đã lên top &font_cyan;#%d&font_end; trong Nghĩa Trang!</string>
+    <string name="game_over_rank_rest">Bạn ở rank &font_cyan;#%d &font_end;trong Nghĩa Trang.</string>
 
     <string name="welcome_message_title">Chào mừng</string>
 
     <string name="collection_question_marks">\?????</string>
-    <string name="collections_title">Collections</string>
-    <string name="collection_plants">Plants</string>
-    <string name="collection_fishes">Fish</string>
-    <string name="collection_cactus">Cactus</string>
-    <string name="collection_monsters">Monsters</string>
-    <string name="collection_island">Islands</string>
+    <string name="collections_title">Sưu Tầm</string>
+    <string name="collection_plants">Cây cỏ</string>
+    <string name="collection_fishes">Cá</string>
+    <string name="collection_cactus">Cây xương rồng</string>
+    <string name="collection_monsters">Quái vật</string>
+    <string name="collection_island">Đảo</string>
     <string name="collection_icon">Collection Icon</string>
-    <string name="collection_merchants_mark">Merchant\'s Mark</string>
-    <string name="collection_insects">Insects</string>
-    <string name="collection_animals">Animals</string>
+    <string name="collection_merchants_mark">Dấu của Người buôn bán</string>
+    <string name="collection_insects">Côn trùng</string>
+    <string name="collection_animals">Động vật</string>
 
-    <string name="about_reddit">RAR II on Reddit</string>
-    <string name="about_title">&line_break;About RAR II</string>
-    <string name="about_text">This game has been created by a one-man developer team with love and patience :)&br;&br;I would love to hear about your opinion! Please feel free to contact me and share your ideas and suggestions.&br;&br;Hope you enjoy your adventure!</string>
-    <string name="about_twitter">Archison on Twitter</string>
-    <string name="about_discord">RAR II on Discord</string>
+    <string name="about_reddit">RAR II trên Reddit</string>
+    <string name="about_title">&line_break;Về RAR II</string>
+    <string name="about_text">Trò chơi này đã được tạo bởi một nhóm phát triển gồm một người với tâm huyết vá sự kiên nhẫn :)&br;&br;Tôi muốn nghe về ý kiến của bạn! Cứ liên hệ với tôi và chia sẻ ý tưởng và đóng góp của bạn.&br;&br;Mong bạn tận hưởng cuộc phiêu lưu của bạn!</string>
+    <string name="about_twitter">Archison trên Twitter</string>
+    <string name="about_discord">RAR II trên Discord</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Chào mừng anh hùng! Bạn tên là gì?</string>
     <string name="new_game_hero_name">Anh hùng</string>
     <string name="new_game_whats_your_starting_advantage">… Và lợi thế khởi đầu của bạn là gì?</string>
 
     <string name="advantage_random">Ngẫu nhiên</string>
-    <string name="advantage_ranger">&font_wood;Ranger&font_end;</string>
-    <string name="advantage_warrior">&font_attack;Warrior&font_end;</string>
-    <string name="advantage_wizard">&font_mana;Wizard&font_end;</string>
+    <string name="advantage_ranger">&font_wood;Xạ Thủ&font_end;</string>
+    <string name="advantage_warrior">&font_attack;Chiến Binh&font_end;</string>
+    <string name="advantage_wizard">&font_mana;Phù Thủy&font_end;</string>
     <string name="advantage_cleric">&font_health;Cleric&font_end;</string>
-    <string name="advantage_petmaster">&font_pet;Pet Master&font_end;</string>
+    <string name="advantage_petmaster">&font_pet;Người Thuần Thú&font_end;</string>
     <string name="advantage_worker">&font_wood;Worker&font_end;</string>
     <string name="advantage_alchemist">&font_alchemist;Alchemist&font_end;</string>
     <string name="advantage_blacksmith">&font_silver;Blacksmith&font_end;</string>
     <string name="advantage_noble">&font_gold;Noble&font_end;</string>
     <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
+    <string name="advantage_librarian_desc">(Bạn sẽ bắt đầu với một công thức chế tạo ngẫu nhiên, một lọ thuốc &font_cyan;kinh nghiệm &font_end;và 5 điểm &font_cyan;kĩ năng &font_end;)</string>
     <string name="advantage_random_desc">(Bạn sẽ bắt đầu với một tài năng ngẫu nhiên)</string>
-    <string name="advantage_warrior_desc">(You will start with a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor&font_end;)</string>
-    <string name="advantage_ranger_desc">(You will start with a &font_speed;Ranged &font_end;weapon and a few of its ammunition)</string>
+    <string name="advantage_warrior_desc">(Bạn sẽ bắt đầu với một &font_attack;vũ khí&font_end;, một chiếc &font_defense;khiên&font_end;, và một &font_defense;áo giáp&font_end;)</string>
+    <string name="advantage_ranger_desc">(Bạn sẽ bắt đầu với một vũ khí &font_speed;từ xa &font_end; và vài viên đạn của chúng)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
